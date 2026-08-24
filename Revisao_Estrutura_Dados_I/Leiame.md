@@ -24,6 +24,12 @@ O notebook utilizado durante a aula está disponível no link abaixo:
 
 A atividade teve como objetivo praticar os conceitos apresentados na aula por meio de exemplos e exercícios desenvolvidos no ambiente Jupyter/Google Colab.
 
+### Aula 03 — Atividade
+
+Na **Aula 03**, foi realizada as atividades práticas da Aula 03 utilizando um **notebook no Google Colab**.
+
+O notebook utilizado durante a aula está disponível no link abaixo: https://github.com/Kadidjah/Estrutura_de_Dados_II/blob/main/Aula3_EstruturasDinamicas_Exercicios.ipynb
+
 ## 📂 Organização do Repositório
 
 ```text
@@ -33,6 +39,7 @@ A atividade teve como objetivo praticar os conceitos apresentados na aula por me
 │   └── ...
 └── Aula-02/
     └── ...
+
 ```
 
 ## 🎯 Objetivos da Unidade I
