@@ -1,4 +1,4 @@
-# Apostila — Aula 03: Ponteiros, Referências e Estruturas Dinâmicas em Python
+# Conteúdo de Revisão — Aula 03: Ponteiros, Referências e Estruturas Dinâmicas em Python
 
 ## Estrutura de Dados
 
