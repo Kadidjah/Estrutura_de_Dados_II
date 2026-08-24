@@ -564,20 +564,7 @@ Checklist:
 - [ ] Testar pelo menos cinco pacientes;
 - [ ] Documentar um erro encontrado e sua correção.
 
-## 26. Critérios de avaliação
-
-| Critério | Pontos |
-|---|---:|
-| Modelagem | 2,0 |
-| Estrutura dinâmica | 2,0 |
-| Funcionamento da fila | 2,0 |
-| Testes e depuração | 1,5 |
-| Organização do código | 1,0 |
-| Trabalho colaborativo | 1,0 |
-| Explicação da solução | 0,5 |
-| **Total** | **10,0** |
-
-## 27. Checklist de aprendizagem
+## 26. Checklist de aprendizagem
 
 - [ ] Entendi o conceito de endereço de memória.
 - [ ] Sei diferenciar ponteiro de referência.
@@ -593,7 +580,7 @@ Checklist:
 - [ ] Consigo implementar uma fila.
 - [ ] Consigo explicar minha solução.
 
-## 28. Reflexão final
+## 27. Reflexão final
 
 ### O que é uma referência em Python?
 
@@ -664,4 +651,4 @@ Pilha
 Grafo
 ```
 
-**Bom trabalho! 🚀**
+**Boas práticas!**
