@@ -1,9 +1,9 @@
 # Caderno do Estudante
-# Projeto ConectaIF: redes sociais com grafos
+# Projeto ConectaUDF: redes sociais com grafos
 **Disciplina:** Algoritmos / Matemática Discreta / Ciência de Dados
 
 ## 1. O desafio
-Você faz parte da equipe que analisa a rede social fictícia **ConectaIF**. Sua missão é representar as amizades em um grafo, realizar cálculos e usar Python para interpretar a estrutura da rede.
+Você faz parte da equipe que analisa a rede social fictícia **ConectaUDF**. Sua missão é representar as amizades em um grafo, realizar cálculos e usar Python para interpretar a estrutura da rede.
 
 ## 2. Conceitos essenciais
 - **Vértice (ou nó):** representa um usuário.
