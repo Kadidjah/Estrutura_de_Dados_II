@@ -1,1 +1,3 @@
-Desenvolver uma rede social com a elaboração de um grafo, com cálculs de métricas e análise das relaçoes entre usuários.
+Desenvolver um grafo, com a análise de uma rede social, com cálculo de métricas de profundidade e análise das relações de amizade entre usuários.
+
+Atividade baseada no filme: Rede Social.
